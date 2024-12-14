@@ -63,4 +63,4 @@ if submit:
     except Exception as e:
         st.error(f"Error processing the image: {e}")
 
-st.markdown("<small>© 2024 Harshith YVS. All rights reserved.</small>", unsafe_allow_html=True)
+st.markdown("<small>© 2024 Harshith YVS, Deeksha R. All rights reserved.</small>", unsafe_allow_html=True)
